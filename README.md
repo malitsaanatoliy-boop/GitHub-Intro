@@ -1,7 +1,6 @@
 # GitHub-Intro
 ## *Quick references*
 [Author👤](#autor) | [Description 📝](#description) | [My Favorite University Subjects 📚](#my-favourite-university-subjects) | [Online VS Offline Studying 🌐](#online-vs-offline-studying) | [My Favorite Mathematical Formulas 🔢](#my-favorite-mathematical-formulas) | [My coding skills 💻](#my-coding-skills) | [The image I like🖼️](#the-image-i-like)
-
 ## Autor👤
 * Name: *Malitsa Anatolii*
 * Group: *KH-125dsg*
